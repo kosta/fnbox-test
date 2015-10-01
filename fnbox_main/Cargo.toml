@@ -1,0 +1,9 @@
+[package]
+name = "test-fnbox"
+version = "0.0.1"
+
+[dependencies]
+log = "*"
+
+[dependencies.fnbox_lib]
+path = "../fnbox_lib"
